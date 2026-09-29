@@ -323,5 +323,4 @@ L’algorithme de recherche du chemin utilisé dans le projet est fortement insp
 
 👨‍💻 Projet universitaire
 
-Projet réalisé dans le cadre d’un devoir de programmation à l’Université du Québec en Outaouais (UQO).<img width="1400" height="798" alt="Capture d’écran, le 2026-09-29 à 00 18 17" src="https://github.com/user-attachments/assets/a081c56d-9e84-4a7f-aecd-fa6d4dd1d492" />
-<img width="1400" height="798" alt="Capture d’écran, le 2026-09-29 à 00 18 17" src="https://github.com/user-attachments/assets/293b0ace-c56d-4602-9cad-1c273ef8cf93" />
+Projet réalisé dans le cadre d’un devoir de programmation à l’Université du Québec en Outaouais (UQO).
