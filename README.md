@@ -1,3 +1,4 @@
+<img width="1400" height="798" alt="Capture d’écran, le 2026-09-29 à 00 18 17" src="https://github.com/user-attachments/assets/89c07324-7069-4421-836f-4c4e8dd1c9aa" />
 🚗 Système de guidage routier — Devoir 2
 
 📌 Description
